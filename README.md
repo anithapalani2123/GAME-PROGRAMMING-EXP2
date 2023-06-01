@@ -1,8 +1,8 @@
 # GAME-PROGRAMMING-EXP2
 # EXP 02 - PAWN MOVEMENT
 
-###### NAME: AASHIMA NAZREEN SAYEED S
-###### REG NO: 212221240002 
+###### NAME: ANITHA P
+###### REG NO: 212221240004
 
 ## AIM:
 To Create a player movement using pawn, collectible, player health, and score.
